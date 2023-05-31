@@ -7,4 +7,4 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anabzerati&bg_color=030303&color=cb7ca1&line=cb7ca1&point=cb7ca1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anabzerati)](https://github.com/ashutosh00710/github-readme-activity-graph)
