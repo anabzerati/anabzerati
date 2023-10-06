@@ -16,7 +16,7 @@
 💻 O que tenho estudado:
 - desenvolvimento web
 - linux
-- programação competitiva
+- estruturas de dados
 
 
 <div>
