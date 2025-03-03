@@ -12,20 +12,23 @@
   </div>
 </div>
 
-#### Tenho 19 anos e sou estudante de Ciência da Computação. Aqui guardo meus estudos. Seja bem vindo!
+#### Tenho 20 anos e sou estudante de Ciência da Computação na Unesp de Rio Preto. 
+#### Aqui guardo meus estudos. Seja bem vindo!
 💻 O que tenho estudado:
-- desenvolvimento web
-- linux
-- estruturas de dados
+- processamento de imagens
+- extração de caracteristicas para texturas
+- classificação
 
 
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
 <h1></h1>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anabzerati&bg_color=00000&color=417aec&line=46aafb&point=46aafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
